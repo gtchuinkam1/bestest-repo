@@ -10,6 +10,7 @@ Download the `.jar` file [here](/target/github-download-1.0-SNAPSHOT-jar-with-de
 
 Usage
 -----
+tyufufyufggy
 
 `github-download` can be run from the command line. It has three required flags:
 
