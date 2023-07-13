@@ -1,0 +1,16 @@
+name: bestest-repo
+id: ari:cloud:compass:7e5f31d1-8ee4-4398-90a6-096d909dc040:component/2a01446d-23f0-4af7-95c4-00fc26ca8a8e/c3ac65a0-faf4-4950-9f8c-9a1430dc5dcc
+description: sdasdasdasdadsad
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/gtchuinkam1/bestest-repo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
